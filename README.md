@@ -2,7 +2,7 @@
 Read xml-file and access data as properties for use with maven filtering
 
 Example:
-Put meta-desc.xml from test/resources next pom.xml, and add the plugin:
+Put meta-desc.xml from test/resources next to pom.xml in your project, and add the plugin:
 
 ```
 <plugin>
